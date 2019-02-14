@@ -1,3 +1,0 @@
-# artempire
-github project
-ghbdtn
